@@ -28,8 +28,8 @@ segments to identify gaps and make informed decisions.
 |-------|-------------|--------|
 | 1 | Requirements Gathering | ✅ Complete |
 | 2 | Data Discovery | ✅ Complete |
-| 3 | Data Cleaning & SQL |  🔄 In Progress |
-| 4 | Dashboard Development | ⬜ Pending |
+| 3 | Data Cleaning & SQL |   ✅ Complete |
+| 4 | Dashboard Development | 🔄 In Progress|
 | 5 | Documentation & Handoff | ⬜ Pending |
 
 ## Documentation
