@@ -95,6 +95,15 @@ Never delete duplicates based on 1-2 columns alone.
 Always confirm by checking ALL columns first to 
 distinguish true duplicates from legitimate entries.
 
+## Clean Dataset
+Final cleaned dataset exported as superstore_clean.csv
+Changes from original:
+- order_date converted from text to DATE format
+- ship_date converted from text to DATE format
+- 1 duplicate row removed (row_id 3407)
+- Sensitive columns removed (customer_name)
+- Final row count: 9,993
+
 ## Summary
 Data is in good shape overall. No missing values, no true 
 duplicates after cleaning. Two date columns needed type 
